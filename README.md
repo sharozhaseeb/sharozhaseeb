@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/83841336/140920976-150950ae-b5b2-47dc-83e0-849b79cecb4d.gif" alt="hello-gif" ><br >I'm <a href="https://www.linkedin.com/in/sharoz-haseeb-028585156/">Sharoz Haseeb</a>👨‍💻</h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/83841336/140920976-150950ae-b5b2-47dc-83e0-849b79cecb4d.gif" alt="hello-gif" height="220" width="800"  ><br >I'm <a href="https://www.linkedin.com/in/sharoz-haseeb-028585156/">Sharoz Haseeb</a>👨‍💻</h1>
 <!-- # Sharoz Haseeb 👨‍💻 -->
 
 
@@ -41,4 +41,4 @@ I have a **Masters in Computer Science** from Nuces Fast lhr specializing in Mac
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
 </p>
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/83841336/140925350-7699ca0c-952e-4991-930c-509d130acba1.gif" alt="footer" height="240px">
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/83841336/140925350-7699ca0c-952e-4991-930c-509d130acba1.gif" alt="footer" height="250" width="700"  >
