@@ -4,16 +4,16 @@
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!&nbsp;           
-I have a **Masters in Computer Science** from Nuces Fast lhr. specializing in Machine-Learning/Ai, BlockChain, Advanced Algorithms, Theory of Computation and Cloud Infrastructure. I have a passion for technology and love to deep dive in different tech stacks to keep up with our current technology revolution. My philosophy is to live my life as a student; to keep learning, understanding and overcoming all the challenges. I keep myself on a quest of knowledge and the more I roam the more I have realized that this is an everlasting journey.
+I have a **Masters in Computer Science** from Nuces Fast lhr. specializing in Machine-Learning/Ai, Advanced Algorithms, Theory of Computation and Cloud Infrastructure. I have a passion for technology and love to deep dive in different tech stacks to keep up with our current technology revolution. My philosophy is to live my life as a student; to keep learning, understanding and overcoming all the challenges. I keep myself on a quest of knowledge and the more I roam the more I have realized that this is an everlasting journey.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/83841336/140910139-1ab3f48c-8f76-404f-918f-91e04a396025.gif" width="400px" />
 
 ## About 💎
-☯ I'm a Full-Stack Dev | Machine-Learning Expert | Algorithm Analyst | Theory of Computation Researcher
+☯ I'm an AI Enthusiast | Machine-Learning Expert | Researcher
 - 🌱 Learning new things everyday.
-- 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
+- 🚀 Science Enthusiast who loves to learn the mysteries of the Universe.
 - 👨‍💻 Full stack dev who loves to incorporate ML or AI in native projects.
-- 😄 I usually like to make open source contributions.
+- 😄 I like to make open source contributions.
 - 🌱 I love to learn new Technologies and ready to help others.
 - 👯 I like to experience life at its fullest.
 
