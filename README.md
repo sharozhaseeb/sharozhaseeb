@@ -22,7 +22,7 @@ I have a **Masters in Computer Science** from Nuces Fast lhr. specializing in Ma
 
 
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: [https://www.upwork.com/freelancers/~016612f019e01d8a32](https://www.linkedin.com/in/sharoz-haseeb/)
+- 📫 How to reach me: [https://www.linkedin.com/in/sharoz-haseeb/](https://www.linkedin.com/in/sharoz-haseeb/)
 - ⚡ Fun fact: I love anime! 
 
 
